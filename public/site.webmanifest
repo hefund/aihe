@@ -1,0 +1,16 @@
+{
+  "name": "nof1.ai",
+  "short_name": "nof1.ai",
+  "description": "为高表现团队打造的 AI 决策系统",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3efe7",
+  "theme_color": "#ff6b3d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

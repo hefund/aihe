@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F3EFE7"/>
+  <circle cx="182" cy="112" r="180" fill="#FFD7CB"/>
+  <circle cx="1080" cy="92" r="170" fill="#D8EEE8"/>
+  <rect x="66" y="72" width="1068" height="486" rx="42" fill="#FFFCF6" stroke="#E8DDD1"/>
+  <rect x="112" y="126" width="86" height="86" rx="24" fill="url(#paint0_linear_0_1)"/>
+  <path d="M136 188V150H145.865L165.615 173.75V150H174V188H164.135L144.385 164.25V188H136Z" fill="white"/>
+  <path d="M112 276H570.652V330.2H112V276Z" fill="none"/>
+  <text fill="#112018" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="74" font-weight="bold" letter-spacing="0em"><tspan x="112" y="330.455">nof1.ai</tspan></text>
+  <text fill="#112018" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="48" font-weight="bold" letter-spacing="0em"><tspan x="112" y="405.164">为高表现团队打造的 AI 决策系统</tspan></text>
+  <text fill="#506253" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="28" letter-spacing="0em"><tspan x="112" y="468.57">Unify context, automate judgment, and turn expertise into repeatable execution.</tspan></text>
+  <defs>
+    <linearGradient id="paint0_linear_0_1" x1="125.438" y1="139.438" x2="184.562" y2="198.562" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6B3D"/>
+      <stop offset="1" stop-color="#FF9D66"/>
+    </linearGradient>
+  </defs>
+</svg>
