@@ -2,6 +2,8 @@
 
 `Next.js` App Router 官网项目，包含多语言多页面路由、Resend 邮件表单 API、Vercel Analytics 埋点、`public/` 资源和 Vercel 部署配置。
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhefund%2Faihe.git)
+
 ## 本地开发
 
 ```bash
@@ -105,6 +107,14 @@ vercel
 ```
 
 或将仓库连接到 Vercel 控制台并配置上述环境变量。
+
+GitHub 一键导入：
+
+1. 打开上面的 `Deploy with Vercel` 按钮
+2. 登录你的 Vercel 账户
+3. 选择 GitHub 仓库 `hefund/aihe`
+4. 配置环境变量
+5. 点击 `Deploy`
 
 构建前可手动执行：
 
